@@ -2,6 +2,7 @@
 
 ## Java Поточная
 
+Данный проект представляет собой простейший веб сервис совместного просмотра видеороликов.
 *  https://github.com/saravanastar/video-streaming Пример использования https://medium.com/@saravanastar/video-streaming-over-http-using-spring-boot-51e9830a3b8
 *  https://github.com/mutaphore/RTSP-Client-Server Реализация клиент - сервера на яве
 *  https://www.youtube.com/watch?v=jH17YkBTpI4 про фреймворк Spring
