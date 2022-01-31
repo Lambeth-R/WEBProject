@@ -6,7 +6,7 @@
 <!-- Top Container -->
 <section class="top" id="top">
   <!-- header -->
-  <header><img class="logo" src="/css/poli.png" width="40" height="40" align="left" alt=""/>
+  <header><img class="logo"  src="/css/poli.png" width="40" height="40" align="left" alt=""/>
     <h2 class="head_text">WEBProject</h2>
 	<h2 class="head_text_r"><a href="/registration">Registration</a></h2>
   </header>
@@ -35,7 +35,7 @@
 <!-- Top Container -->
 <section class="top" id="top">
   <!-- header -->
-  <header><img class="logo" src="/css/poli.png" width="40" height="40" align="left" alt=""/>
+  <header><img class="logo"  src="/css/poli.png" width="40" height="40" align="left" alt=""/>
     <h2 class="head_text">WEBProject</h2>
   </header>
 	</section>

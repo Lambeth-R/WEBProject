@@ -23,10 +23,12 @@
   <!-- header -->
   <header><img class="logo" src="/css/poli.png" width="40" height="40" align="left" alt=""/>
     <h2 class="head_text">WEBProject</h2>
-	<h2 class="head_menu"><a href="#win1">Join room</a></h2>
-	<h2 class="head_menu"><a href="#win2">Create room</a></h2>
-	<h2 class="head_menu"><a href="#win3">Upload</a></h2>
-	<h2 class="head_menu"><a href="#win4"">Sign Out</a></h2>
+
+            <h3 class="head_menu"><a href="#win1">Join room</a></h3>
+            <h3 class="head_menu"><a href="#win2">Create room</a></h3>
+            <h3 class="head_menu"><a href="#win3">Upload</a></h3>
+            <h3 class="head_menu"><a href="#win4"">Sign Out</a></h3>
+
   </header>
 
 
@@ -115,7 +117,7 @@
 </div>
 
 
-<div  class="info_block" id="info" >
+<div  class="v_info_block" id="info" >
 <p class="insert" style="color: #E8E8E8" >Select a video from the playlist: </p>
 <select onchange="window['setfile'](this.value);">
         <option disabled selected value> -- select file -- </option>
@@ -128,8 +130,6 @@
 
 </section>
 
-<div  class="video_block">
 <#include "parts/video.html">
-</div>
 
 </@c.page>
